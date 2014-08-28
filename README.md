@@ -1,4 +1,4 @@
-wireframes
+Platform Overview
 ==========
 
-Workflow, wireframes and user narratives for the InfoScribe platform.
+(https://raw.githubusercontent.com/InfoScribe/wireframes/master/images/platform_sketch.jpg)
