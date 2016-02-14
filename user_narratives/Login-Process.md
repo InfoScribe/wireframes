@@ -14,6 +14,4 @@ The signup process follows standard methods and layouts, with the ability to sig
 ![InfoScribe platform login dialogue](https://raw.githubusercontent.com/InfoScribe/wireframes/master/images/InfoScribe_login.png)
 
 
-**Creating a new InfoScribe project**
-
 
